@@ -1,6 +1,10 @@
 # Amara Living Showcase
 
 A polished single-page luxury brand showcase for the Amara Living web developer internship assignment.
+## 🌐 Live Demo
+
+https://amara-living.vercel.app/
+
 
 ## Features
 
