@@ -4,6 +4,11 @@ A polished single-page luxury brand showcase for the Amara Living web developer 
 ## 🌐 Live Demo
 
 https://amara-living.vercel.app/
+## 🎥 Project Demo
+
+Watch the complete website walkthrough:
+
+[Click here to watch demo video](demo/amara-demo.mp4)
 
 
 ## Features
